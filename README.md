@@ -35,13 +35,18 @@
 
 ## 📈 Falode Tobi's GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thobbytosin&show_icons=true&theme=radical" alt="Tobi's GitHub stats"/>
-</p>
+
+<div style="display: flex; justify-content: flex-start; align-items: center; gap: 20px; flex-wrap: wrap;">
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thobbytosin&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thobbytosin&show_icons=true&theme=default" alt="Tobi's GitHub stats"/>
 </p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thobbytosin&layout=compact&theme=default" alt="Top languages"/>
+</p>
+  
+</div>  
+
 
 
 <!--
