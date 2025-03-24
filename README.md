@@ -12,7 +12,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 
   <!-- Cloudinary -->
-  <img src="https://res.cloudinary.com/dkb4r7psl/image/upload/v1611131717/tech/cloudinary_logo_sgdo7d.png" alt="Cloudinary" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Cloudinary_logo.svg/234px-Cloudinary_logo.svg.png?20220510233823" alt="Cloudinary" width="40" height="40"/>
 
   <!-- Next.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
@@ -28,9 +28,6 @@
 
   <!-- Cypress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
-
-  <!-- K6 -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/K6_logo_without_text.svg" alt="K6" width="40" height="40"/>
   
 </p>
 
