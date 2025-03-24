@@ -1,5 +1,7 @@
 ## Hi, My name is Tobi 👋
 
+**Full Stack Web Developer with over 3 years of experience building professional, responsive, and SEO-optimized websites.**
+
 ![Visits Count](https://visitor-badge.laobi.icu/badge?page_id=Thobbytosin.Thobbytosin&left_color=gray&right_color=blue)
 
 - 🔭 I’m currently working on [Trust Healthcare Project](https://github.com/Thobbytosin/trusthealthcare-backend-server)
