@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, My name is Tobi 👋
 
 ## 🛠️ Languages and Tools:
 <p align="left">
@@ -31,6 +31,16 @@
    <!-- K6 -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/561px-K6-logo.svg.png?20200330143628" alt="K6" width="40" height="40"/>
   
+</p>
+
+## 📈 Falode Tobi's GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thobbytosin&show_icons=true&theme=radical" alt="Tobi's GitHub stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thobbytosin&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 
