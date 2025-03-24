@@ -28,6 +28,8 @@
 
   <!-- Cypress -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
+   <!-- K6 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/561px-K6-logo.svg.png?20200330143628" alt="K6" width="40" height="40"/>
   
 </p>
 
