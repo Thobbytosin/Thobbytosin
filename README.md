@@ -10,7 +10,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudinary/cloudinary-original.svg" alt="git" width="40" height="40"/>
+
+  <!-- Cloudinary -->
+  <img src="https://res.cloudinary.com/dkb4r7psl/image/upload/v1611131717/tech/cloudinary_logo_sgdo7d.png" alt="Cloudinary" width="40" height="40"/>
+
+  <!-- Next.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+
+  <!-- Redis -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+
+  <!-- Formidable -->
+  <img src="https://avatars.githubusercontent.com/u/5078602?s=280&v=4" alt="Formidable" width="40" height="40"/>
+
+  <!-- Jest -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40"/>
+
+  <!-- Cypress -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" alt="Cypress" width="40" height="40"/>
+
+  <!-- K6 -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/K6_logo_without_text.svg" alt="K6" width="40" height="40"/>
+  
 </p>
 
 
