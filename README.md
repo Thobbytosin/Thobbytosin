@@ -1,6 +1,7 @@
 ## Hi, My name is Tobi 👋
 
-- 🔭 I’m currently working on [Trust Healthcare Project](https://github.com/Thobbytosin/trust-healthcare)
+
+- 🔭 I’m currently working on [Trust Healthcare Project](https://github.com/Thobbytosin/trusthealthcare-backend-server)
 - 🌱 I’m currently learning GitHub Actions for CI/CD Pipelines
 - 👯 I’m looking to collaborate on open-source MERN stack projects
 
