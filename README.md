@@ -1,6 +1,6 @@
 ## Hi, My name is Tobi 👋
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Thobbytosin.Thobbytosin&left_color=gray&right_color=blue)
+![Visits Count](https://visitor-badge.laobi.icu/badge?page_id=Thobbytosin.Thobbytosin&left_color=gray&right_color=blue)
 
 - 🔭 I’m currently working on [Trust Healthcare Project](https://github.com/Thobbytosin/trusthealthcare-backend-server)
 - 🌱 I’m currently learning GitHub Actions for CI/CD Pipelines
