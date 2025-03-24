@@ -1,5 +1,9 @@
 ## Hi, My name is Tobi 👋
 
+- 🔭 I’m currently working on [Trust Healthcare Project](https://github.com/Thobbytosin/trust-healthcare)
+- 🌱 I’m currently learning GitHub Actions for CI/CD Pipelines
+- 👯 I’m looking to collaborate on open-source MERN stack projects
+
 ## 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
