@@ -5,6 +5,8 @@
 - 🔭 I’m currently working on [Trust Healthcare Project](https://github.com/Thobbytosin/trusthealthcare-backend-server)
 - 🌱 I’m currently learning GitHub Actions for CI/CD Pipelines
 - 👯 I’m looking to collaborate on open-source MERN stack projects
+- 👨‍💻 Check my projects  at [My Portfolio](https://thefalodetobi.com.ng/)
+- 📫 How to reach me: **gabrielfalodetobi@gmail.com**
 
 ## 🛠️ Languages and Tools:
 <p align="left">
